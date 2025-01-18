@@ -1,0 +1,110 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.MvvmToolkitEnableINotifyPropertyChangingSupport = true
+build_property.TargetFramework = net9.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Point_Of_Sale
+build_property.ProjectDir = C:\Users\user\source\repos\Point Of Sale\Point Of Sale\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/user/source/repos/Point Of Sale/Point Of Sale/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Point_Of_Sale.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/user/source/repos/Point Of Sale/Point Of Sale/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Point_Of_Sale.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/user/source/repos/Point Of Sale/Point Of Sale/Pages/Controls/AddButton.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Point_Of_Sale.Pages.Controls.AddButton.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Controls\AddButton.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Controls\AddButton.xaml
+
+[C:/Users/user/source/repos/Point Of Sale/Point Of Sale/Pages/Controls/CategoryChart.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Point_Of_Sale.Pages.Controls.CategoryChart.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Controls\CategoryChart.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Controls\CategoryChart.xaml
+
+[C:/Users/user/source/repos/Point Of Sale/Point Of Sale/Pages/Controls/ProjectCardView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Point_Of_Sale.Pages.Controls.ProjectCardView.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Controls\ProjectCardView.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Controls\ProjectCardView.xaml
+
+[C:/Users/user/source/repos/Point Of Sale/Point Of Sale/Pages/Controls/TagView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Point_Of_Sale.Pages.Controls.TagView.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Controls\TagView.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Controls\TagView.xaml
+
+[C:/Users/user/source/repos/Point Of Sale/Point Of Sale/Pages/Controls/TaskView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Point_Of_Sale.Pages.Controls.TaskView.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Controls\TaskView.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Controls\TaskView.xaml
+
+[C:/Users/user/source/repos/Point Of Sale/Point Of Sale/Pages/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Point_Of_Sale.Pages.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\MainPage.xaml
+
+[C:/Users/user/source/repos/Point Of Sale/Point Of Sale/Pages/ManageMetaPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Point_Of_Sale.Pages.ManageMetaPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ManageMetaPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ManageMetaPage.xaml
+
+[C:/Users/user/source/repos/Point Of Sale/Point Of Sale/Pages/ProjectDetailPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Point_Of_Sale.Pages.ProjectDetailPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ProjectDetailPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ProjectDetailPage.xaml
+
+[C:/Users/user/source/repos/Point Of Sale/Point Of Sale/Pages/ProjectListPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Point_Of_Sale.Pages.ProjectListPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ProjectListPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ProjectListPage.xaml
+
+[C:/Users/user/source/repos/Point Of Sale/Point Of Sale/Pages/TaskDetailPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Point_Of_Sale.Pages.TaskDetailPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\TaskDetailPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\TaskDetailPage.xaml
+
+[C:/Users/user/source/repos/Point Of Sale/Point Of Sale/Resources/Styles/AppStyles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Point_Of_Sale.Resources.Styles.AppStyles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\AppStyles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\AppStyles.xaml
+
+[C:/Users/user/source/repos/Point Of Sale/Point Of Sale/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Point_Of_Sale.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/user/source/repos/Point Of Sale/Point Of Sale/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Point_Of_Sale.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
