@@ -22,6 +22,10 @@ namespace Point_Of_Sale
                     fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
                     fonts.AddFont("SegoeUI-Semibold.ttf", "SegoeSemibold");
                     fonts.AddFont("FluentSystemIcons-Regular.ttf", FluentUI.FontFamily);
+                    fonts.AddFont("MetricHPE-App-Black.ttf", "MetricHPEBlack");
+                    fonts.AddFont("MetricHPE-App-Bold.ttf", "MetricHPEBold");
+                    fonts.AddFont("MetricHPE-App-Medium.ttf", "MetricHPEMedium");
+                    fonts.AddFont("MetricHPE-App-Regular.ttf", "MetricHPERegular");
                 });
 
 #if DEBUG

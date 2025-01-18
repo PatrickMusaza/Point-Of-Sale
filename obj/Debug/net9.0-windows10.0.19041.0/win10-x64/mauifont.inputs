@@ -1,5 +1,9 @@
 File=Resources\Fonts\FluentSystemIcons-Regular.ttf;Link=;Alias=
 File=Resources\Fonts\FluentUI.cs;Link=;Alias=
+File=Resources\Fonts\MetricHPE-App-Black.ttf;Link=;Alias=
+File=Resources\Fonts\MetricHPE-App-Bold.ttf;Link=;Alias=
+File=Resources\Fonts\MetricHPE-App-Medium.ttf;Link=;Alias=
+File=Resources\Fonts\MetricHPE-App-Regular.ttf;Link=;Alias=
 File=Resources\Fonts\OpenSans-Regular.ttf;Link=;Alias=
 File=Resources\Fonts\OpenSans-Semibold.ttf;Link=;Alias=
 File=Resources\Fonts\SegoeUI-Semibold.ttf;Link=;Alias=
