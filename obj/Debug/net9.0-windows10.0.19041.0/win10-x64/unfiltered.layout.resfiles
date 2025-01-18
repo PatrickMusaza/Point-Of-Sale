@@ -1,6 +1,10 @@
 runtimes\win-x64\native\WebView2Loader.dll
 FluentSystemIcons-Regular.ttf
 FluentUI.cs
+MetricHPE-App-Black.ttf
+MetricHPE-App-Bold.ttf
+MetricHPE-App-Medium.ttf
+MetricHPE-App-Regular.ttf
 OpenSans-Regular.ttf
 OpenSans-Semibold.ttf
 SegoeUI-Semibold.ttf

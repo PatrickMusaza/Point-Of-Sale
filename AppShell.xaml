@@ -6,7 +6,7 @@
     xmlns:sf="clr-namespace:Syncfusion.Maui.Toolkit.SegmentedControl;assembly=Syncfusion.Maui.Toolkit"
     xmlns:pages="clr-namespace:Point_Of_Sale.Pages"
     Shell.FlyoutBehavior="Flyout"
-    Title="Point_Of_Sale">
+    Title="Point Of Sale">
 
     <ShellContent
         Title="Dashboard"

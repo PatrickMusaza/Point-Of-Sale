@@ -2,14 +2,22 @@
 {
     public partial class App : Application
     {
-        public App()
+        private readonly DatabaseHelper _databaseService;
+
+        public App(DatabaseHelper databaseService)
         {
             InitializeComponent();
+
+            MainPage = new AppShell();
+            _databaseService = databaseService;
         }
 
-        protected override Window CreateWindow(IActivationState? activationState)
+        protected override async void OnStart()
         {
-            return new Window(new AppShell());
+            base.OnStart();
+
+            // initialize and Seed Database
+            await _databaseService.InitializaDatabaseAsync();
         }
     }
 }

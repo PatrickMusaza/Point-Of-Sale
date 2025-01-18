@@ -485,3 +485,13 @@ C:\Users\user\source\repos\Point Of Sale\Point Of Sale\obj\Debug\net9.0-windows1
 C:\Users\user\source\repos\Point Of Sale\Point Of Sale\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\qualifiers.txt
 C:\Users\user\source\repos\Point Of Sale\Point Of Sale\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\user\source\repos\Point Of Sale\Point Of Sale\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+C:\Users\user\source\repos\Point Of Sale\Point Of Sale\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\MetricHPE-App-Black.ttf
+C:\Users\user\source\repos\Point Of Sale\Point Of Sale\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\MetricHPE-App-Bold.ttf
+C:\Users\user\source\repos\Point Of Sale\Point Of Sale\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\MetricHPE-App-Medium.ttf
+C:\Users\user\source\repos\Point Of Sale\Point Of Sale\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\MetricHPE-App-Regular.ttf
+C:\Users\user\source\repos\Point Of Sale\Point Of Sale\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\resizetizer\f\MetricHPE-App-Black.ttf
+C:\Users\user\source\repos\Point Of Sale\Point Of Sale\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\resizetizer\f\MetricHPE-App-Bold.ttf
+C:\Users\user\source\repos\Point Of Sale\Point Of Sale\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\resizetizer\f\MetricHPE-App-Medium.ttf
+C:\Users\user\source\repos\Point Of Sale\Point Of Sale\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\resizetizer\f\MetricHPE-App-Regular.ttf
+C:\Users\user\source\repos\Point Of Sale\Point Of Sale\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\Point Of Sale.sourcelink.json
+C:\Users\user\source\repos\Point Of Sale\Point Of Sale\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\SQLite-net.dll
