@@ -30,7 +30,7 @@ public class DatabaseHelper : IAsyncDisposable
 
         await SeedDataAsync();
 
-        var menuItems = await GetMenuItemsByCategoryAsync(1);
+      //  var menuItems = await GetMenuItemsByCategoryAsync(1);
     }
 
     public async Task SeedDataAsync()

@@ -9,7 +9,7 @@
              x:Class="Point_Of_Sale.Pages.MainPage"
              x:DataType="pageModels:MainPageModel"
              Title="{Binding Today}">
-
+<!--
     <ContentPage.Behaviors>
         <toolkit:EventToCommandBehavior
                 EventName="NavigatedTo"
@@ -82,4 +82,73 @@
             IsEnabled="{Binding IsBusy, Converter={StaticResource InvertedBoolConverter}}"
             Command="{Binding AddTaskCommand}" />
     </Grid>
-</ContentPage>
+    -->
+    
+        <Grid RowDefinitions="Auto, *, Auto" BackgroundColor="Black">
+            <!-- Toolbar -->
+            <Grid Grid.Row="0" BackgroundColor="Gray" Padding="10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+
+                <StackLayout Orientation="Horizontal" Spacing="15" HorizontalOptions="Start">
+                    <Button Text="Search" BackgroundColor="Transparent" TextColor="White" FontAttributes="Bold"/>
+                    <Button Text="Customer" BackgroundColor="Transparent" TextColor="White" FontAttributes="Bold"/>
+                    <Button Text="Transfer" BackgroundColor="Transparent" TextColor="White" FontAttributes="Bold"/>
+                </StackLayout>
+
+                <StackLayout Orientation="Horizontal" HorizontalOptions="End" Spacing="10">
+                    <Button Text="Refund" BackgroundColor="Transparent" TextColor="White" FontAttributes="Bold"/>
+                    <Button Text="Cash Drawer" BackgroundColor="Transparent" TextColor="White" FontAttributes="Bold"/>
+                </StackLayout>
+            </Grid>
+
+            <!-- Main Content -->
+            <Grid Grid.Row="1" Padding="10" BackgroundColor="Black">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="3*"/>
+                </Grid.ColumnDefinitions>
+
+                <!-- Left Panel -->
+                <StackLayout BackgroundColor="#1E1E1E" Padding="10">
+                    <Label Text="No items" TextColor="Gray" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
+                    <StackLayout VerticalOptions="End" Spacing="5">
+                        <Label Text="Subtotal" TextColor="White" FontSize="14"/>
+                        <Label Text="Tax" TextColor="White" FontSize="14"/>
+                        <Label Text="Total" FontAttributes="Bold" TextColor="White" FontSize="16"/>
+                    </StackLayout>
+                </StackLayout>
+
+                <!-- Right Panel -->
+                <StackLayout Grid.Column="1" Padding="10" BackgroundColor="Black">
+                    <Entry Placeholder="Search product" 
+                       BackgroundColor="#333" 
+                       TextColor="White" 
+                       PlaceholderColor="Gray" 
+                       Margin="0,0,10,10"/>
+                    <Button Text="" BackgroundColor="Transparent" TextColor="White" HorizontalOptions="Start"/>
+                    <Label Text="Product list will appear here" 
+                       TextColor="Gray" 
+                       HorizontalOptions="Center" 
+                       VerticalOptions="CenterAndExpand"/>
+                </StackLayout>
+            </Grid>
+
+            <!-- Footer -->
+            <Grid Grid.Row="2" BackgroundColor="#1E1E1E" Padding="10" RowSpacing="20">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+
+            <Button Text="Void Order" BackgroundColor="Red" TextColor="White" Grid.Column="0" Padding="10"/>
+            <Button Text="Lock" BackgroundColor="Gray" TextColor="White" Grid.Column="1" Padding="10"/>
+            <Button Text="Repeat Round" BackgroundColor="Gray" TextColor="White" Grid.Column="2" Padding="10"/>
+        </Grid>
+        </Grid>
+        
+    </ContentPage>
