@@ -58,6 +58,10 @@ _______ DATE SEPARATED WITH TIME ________________
 
 ________ MAPPING FOR RELATED TABLES _____________
 
+________ USERs CREATED _____________
+
+________ USERs UPDATED _____________
+
 */
 
 // management
